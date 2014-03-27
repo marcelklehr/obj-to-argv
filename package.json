@@ -1,0 +1,27 @@
+{
+  "name": "obj-to-argv",
+  "version": "0.0.0",
+  "description": "Takes an object and spits out the argv/args array as libraries like optimist would expect it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelklehr/obj-to-argv.git"
+  },
+  "keywords": [
+    "argv",
+    "args",
+    "optimist",
+    "stringify",
+    "object",
+    "array"
+  ],
+  "author": "Marcel Klehr <mklehr@gmx.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelklehr/obj-to-argv/issues"
+  },
+  "homepage": "https://github.com/marcelklehr/obj-to-argv"
+}
