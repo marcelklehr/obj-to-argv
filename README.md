@@ -16,6 +16,9 @@ var args = toArgv({
 console.log(args) // ["--afloat=0.5", "--tuut=sob", "--foo.bar=5", "--foo.so=6"]
 ```
 
+## Install
+`npm install obj-to-argv`
+
 ## API
 
 ### toArgv(obj, [args, [prefix]])
